@@ -41,5 +41,5 @@ Shift: 3
 
 Encrypted: KHOOR
 
-Made with 💻 by Troislabs
+Made by Troislabs
 
